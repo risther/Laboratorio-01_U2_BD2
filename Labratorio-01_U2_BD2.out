@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{OBJETIVO}{}% 1
+\BOOKMARK [1][-]{section.2}{DESARROLLO}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Paso 1: Configurar los requisitos previos para el cl\372ster de ejemplo}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Paso 2: Lanzar el cl\372ster de Amazon EMR de ejemplo }{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Paso 3: Permitir las conexiones SSH con el cl\372ster desde el cliente }{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Paso 4: Procesar los datos ejecutando el script de Hive como paso }{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Paso 5: Terminar el cl\372ster y eliminar el bucket }{section.2}% 7
+\BOOKMARK [1][-]{section.3}{CONCLUSIONES}{}% 8
